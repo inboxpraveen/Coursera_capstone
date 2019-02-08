@@ -14,3 +14,5 @@ Week 5 assignment tasks:
     c. Result section : Describing your results and also any output supporting the results.
     d. Discussion section : This is an important section as it shows all the infernces and analysis that you did on your project.
     e. Conclusion section: Concluding statement of the project and also its future scope.
+
+3. Presentation: Similar to project report but less text content.
