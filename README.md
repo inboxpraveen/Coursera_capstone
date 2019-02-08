@@ -12,4 +12,5 @@ Week 5 assignment tasks:
     a. Introduction section (basically the problem statement. So week 4 part 1 will help.)
     b. Methodolgy section : descibing your approch on handling data and what methods your might use while approching towards the target.
     c. Result section : Describing your results and also any output supporting the results.
-    d. Discussion section : 
+    d. Discussion section : This is an important section as it shows all the infernces and analysis that you did on your project.
+    e. Conclusion section: Concluding statement of the project and also its future scope.
